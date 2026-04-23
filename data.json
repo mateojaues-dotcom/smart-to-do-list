@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Buy plane tickets",
+        "energy": 2,
+        "priority": 3,
+        "time_required": 40,
+        "remaining_time": 40,
+        "deadline": "2026-04-26",
+        "location": "both",
+        "started": false
+    },
+    {
+        "name": "Programming project",
+        "energy": 4,
+        "priority": 5,
+        "time_required": 120,
+        "remaining_time": 60,
+        "deadline": "2026-04-23",
+        "location": "home",
+        "started": true
+    },
+    {
+        "name": "wash car",
+        "energy": 2,
+        "priority": 2,
+        "time_required": 30,
+        "remaining_time": 30,
+        "deadline": "2026-04-24",
+        "location": "outside",
+        "started": false
+    },
+    {
+        "name": "buy new suitcase",
+        "energy": 1,
+        "priority": 2,
+        "time_required": 15,
+        "remaining_time": 15,
+        "deadline": "2026-04-26",
+        "location": "outside",
+        "started": false
+    }
+]
